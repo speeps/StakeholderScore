@@ -14,6 +14,8 @@ All rating questions are on a 0-10 scale of how much you agree with the statemen
 
 1) *What company/organization are you assessing?*    //short answer field
 
+2) *Who invited you to complete this survey?*    //short answer field to help differentiate similar company names
+
 -------Page 1 END-------
 
 # Your Stakeholder Identification
@@ -22,7 +24,7 @@ A Stakeholder is a person, group, or place (e.g. the environment) that has a sta
 
 *Feel free to skip any question that you feel does not apply to you as a representative of your stakeholder.
 
-2) *Which of the following best describes your relationship to the company or the perspective from which you will be completing this survey?*
+3) *Which of the following best describes your relationship to the company or the perspective from which you will be completing this survey?*
 
 - Customer/client
 - Employee
@@ -32,10 +34,10 @@ A Stakeholder is a person, group, or place (e.g. the environment) that has a sta
 - Community Member
 - Other (please specify)    //short answer field
 
-3) *I believe this company could have a significant impact on me (e.g. my health, personal/professional interests, career, finances, quality of life).*
+4) *I believe this company could have a significant impact on me (e.g. my health, personal/professional interests, career, finances, quality of life).*
 (1-10 radio button or "I don't know")
 
-4) *I believe I could have a significant impact on this company (e.g. its financial performance, sustainability, reputation).*
+5) *I believe I could have a significant impact on this company (e.g. its financial performance, sustainability, reputation).*
 (1-10 radio button or "I don't know")
 
 ------Page 2 END-----
@@ -48,14 +50,12 @@ The company focuses on what it can get from others, often withholding informatio
 ##  Evolving (high scores)
 The company builds long-term trusting partnerships through open communication and transparency that invites collaboration.
 
-5) *The company is proactive and transparent in sharing information that is important to me.*
-(completely disagree 0 to completely agree 10 or "I don't know". Same for all questions)
+6) *The company is proactive and transparent in sharing information that is important to me.*
+(completely disagree - 0 to completely agree - 10 or "I don't know")   //same for rest of questions on page
 
-6) *The company seeks out, cares about, and incorporates my perspective and input to make mutually beneficial company decisions.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")
+7) *The company seeks out, cares about, and incorporates my perspective and input to make mutually beneficial company decisions.*
 
-7) *In general, I believe the company would welcome me sharing a contrary or unpopular opinion about how it operates or what it does.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")
+8) *In general, I believe the company would welcome me sharing a contrary or unpopular opinion about how it operates or what it does.*
 
 -----Page 3 END-----
 
@@ -67,14 +67,12 @@ The company sees people as tools to use for its own economic gain.
 ## Evolving (high scores)
 The company helps people live their best life.
 
-8) *The company cares about and supports my wellbeing.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")
+9) *The company cares about and supports my wellbeing.*
+(completely disagree - 0 to completely agree - 10 or "I don't know")   //same for rest of questions on page
 
-9) *The company cares about and suppots the wellbeing of my family.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")
+10) *The company cares about and suppots the wellbeing of my family.*
 
-10) *The company cares about and actively helps me reach my goals in all areas of life.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")
+11) *The company cares about and actively helps me reach my goals in all areas of life.*
 
 ----- Page 4 END-----
 
@@ -86,14 +84,12 @@ The company includes and benefits primarily people from similar backgrounds, ide
 ## Evolving (high scores)
 The company actively connects people from different backgrounds, identities, abilities and socio-economic status to foster equity and a better standard of living for the communities they touch.
 
-11) *The company proactively seeks to work with and include the perspectives of a diverse group of people in decision-making.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")
+12) *The company proactively seeks to work with and include the perspectives of a diverse group of people in decision-making.*
+(completely disagree - 0 to completely agree - 10 or "I don't know")   //same for rest of questions on page
 
-12) *The people financially benefiting from the company reflect the diversity of the communities in which it operates.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")
+13) *The people financially benefiting from the company reflect the diversity of the communities in which it operates.*
 
-13) *The senior leadership of the company reflects the diversity of the communities in which it operates.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")
+14) *The senior leadership of the company reflects the diversity of the communities in which it operates.*
 
 ------Page 5 END------
 
@@ -105,17 +101,14 @@ The company strives to make money for their owners, investors, and shareholders.
 ##  Evolving (example high scores)
 The company strives to create value to help everyone who works with them achieve financial security and improve their quality of life.
 
-14) *I am confident in the long-term financial sustainability of the company.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")
+15) *I am confident in the long-term financial sustainability of the company.*
+(completely disagree - 0 to completely agree - 10 or "I don't know")   //same for rest of questions on page
 
-15) *The value I receive from the company is fair relative to the value I provide.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")
+16) *The value I receive from the company is fair relative to the value I provide.*
 
-16) *I am confident the company will help me exceed my basic needs over the long term.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")
+17) *I am confident the company will help me exceed my basic needs over the long term.*
 
-17) *I am confident that I will share equitably in the benefits of future growth and success of this company.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")
+18) *I am confident that I will share equitably in the benefits of future growth and success of this company.*
 
 -----Page 6 END-----
 
@@ -127,11 +120,12 @@ The company consumes resources for its gain, without regard for environmental im
 ## Evolving (example low scores)
 The company conserves and restores resources in the creation and delivery of its products and services for the benefit of future generations
 
-18) *I believe the company considers and addresses its impact on the environment.*
+19) *I believe the company considers and addresses its impact on the environment.*
+(completely disagree - 0 to completely agree - 10 or "I don't know")   //same for rest of questions on page
 
-19) *I believe that the company has a positive net impact on the environment, helping to heal and restore the planet's life-support systems.*
+20) *I believe that the company has a positive net impact on the environment, helping to heal and restore the planet's life-support systems.*
 
-20) *I believe that the company openly shares best practices and inspires other organizations to become environmentally sustainable.*
+21) *I believe that the company openly shares best practices and inspires other organizations to become environmentally sustainable.*
 
 -----Page 7 END-----
 
@@ -143,22 +137,23 @@ The company’s sole reason for being is to grow and be financially profitable.
 ## Evolving (example high scores)
 The company’s reason for being is to solve a specific, important social or environmental problem.
 
-21) *I am inspired and motivated by the company's purpose.*
+22) *I am inspired and motivated by the company's purpose.*
+(completely disagree - 0 to completely agree - 10 or "I don't know")   //same for next 3 questions
 
-22) *The company is making my community a better place.*
+23) *The company is making my community a better place.*
 
-23) *The company uses meaningful metrics to inform its progress in fulfilling its purpose.*
+24) *The company uses meaningful metrics to inform its progress in fulfilling its purpose.*
 
-24) *The behavior and processes of the company are aligned with its purpose.*
+25) *The behavior and processes of the company are aligned with its purpose.*
 
-25) *Do you think your personal experience with this company is similar to others?*
+26) *Do you think your personal experience with this company is similar to others?*
 - I believe my experience is worse than others
 - I believe my experience is similar to others
 - I believe my experience is better than others
 - I'm not sure
 
-26) *What else would you like company leaders to know?*   //long answer form
+27) *What else would you like company leaders to know?*   //long answer form
 
-27) *What is working about this tool and how can we make it better?*    //long answer form
+28) *What is working about this tool and how can we make it better?*    //long answer form
 
 -----Page 8 END-----
