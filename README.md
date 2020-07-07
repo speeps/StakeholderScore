@@ -43,7 +43,7 @@ _(in alphabetical order)_
 - Tara Jenkins - Founder, Conscious Revolution
 - Dorothy Mankey - Former Leadership Development Manager, Whole Foods Market 
 - Brian Mohr - Conscious Capitalism, Inc. Board Member
-- Scott Peeples - Co-Founder & Former COO, Peerfit
+- Scott Peeples - Co-Founder & Former President, Peerfit
 - Brie Roper - Leadership Development Manager, BIGGBY COFFEE
 
 In addition to ongoing review and consideration of received suggestions, the decision body will organize opportunities to share learning, facilitate broadly inclusive discussion (extending well beyond co-op members to bring in substantially diverse perspectives), and update this tool in October 2019, April 2020, and at least annually thereafter.
