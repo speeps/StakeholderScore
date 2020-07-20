@@ -8,7 +8,8 @@ Each section of the tool illustrates examples of both ends of the spectrum for t
 
 This survey was sent to you by someone who values your opinion. Your results are anonymous so please be as candid as possible in your answers.
 
-All rating questions are on a 0-10 scale of how much you agree with the statement: with 0 being the lowest (you completely disagree) and 10 being the highest (you completely agree)
+All rating questions are on a 0-10 scale of how much you agree with the statement
+with 0 being the lowest (you completely disagree) and 10 being the highest (you completely agree)
 
 [Learn about this survey](https://stakeholderscore.com/background/)
 
@@ -22,7 +23,7 @@ All rating questions are on a 0-10 scale of how much you agree with the statemen
 
 A Stakeholder is a person, group, or place (e.g. the environment) that has a stake in how a company or organization performs, either in how the company affects them or on how they affect the company. While you may represent many different stakeholders of this company, we're going to ask you to complete the survey from one perspective at a time - as best you can.
 
-*Feel free to skip any question that you feel does not apply to you as a representative of your stakeholder.
+*Feel free to skip any question that you feel does not apply to you as a representative of your stakeholder group.
 
 3) *Which of the following best describes your relationship to the company or the perspective from which you will be completing this survey?*
 
@@ -65,7 +66,7 @@ The company builds long-term trusting partnerships through open communication an
 The company sees people as tools to use for its own economic gain.
 
 ## Evolving (high scores)
-The company helps people live their best life.
+The company helps people live their best lives.
 
 9) *The company cares about and supports my wellbeing.*
 (completely disagree - 0 to completely agree - 10 or "I don't know")   //same for rest of questions on page
@@ -96,7 +97,7 @@ The company actively connects people from different backgrounds, identities, abi
 # Financial Prosperity
 
 ## Endangered (example low scores)
-The company strives to make money for their owners, investors, and shareholders.
+The company strives to make money for its owners, investors, and shareholders.
 
 ##  Evolving (example high scores)
 The company strives to create value to help everyone who works with them achieve financial security and improve their quality of life.
@@ -118,7 +119,7 @@ The company strives to create value to help everyone who works with them achieve
 The company consumes resources for its gain, without regard for environmental impacts.
 
 ## Evolving (example low scores)
-The company conserves and restores resources in the creation and delivery of its products and services for the benefit of future generations
+The company conserves and restores resources in the creation and delivery of its products and services for the benefit of future generations.
 
 19) *I believe the company considers and addresses its impact on the environment.*
 (completely disagree - 0 to completely agree - 10 or "I don't know")   //same for rest of questions on page
