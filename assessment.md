@@ -51,8 +51,9 @@ The company focuses on what it can get from others, often withholding informatio
 ##  Evolving (high scores)
 The company builds long-term trusting partnerships through open communication and transparency that invites collaboration.
 
+(0 = completely disagree, 10 = completely agree)
+
 6) *The company is proactive and transparent in sharing information that is important to me.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")   //same for rest of questions on page
 
 7) *The company seeks out, cares about, and incorporates my perspective and input to make mutually beneficial company decisions.*
 
@@ -68,8 +69,9 @@ The company sees people as tools to use for its own economic gain.
 ## Evolving (high scores)
 The company helps people live their best lives.
 
+(0 = completely disagree, 10 = completely agree)
+
 9) *The company cares about and supports my wellbeing.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")   //same for rest of questions on page
 
 10) *The company cares about and suppots the wellbeing of my family.*
 
@@ -85,8 +87,9 @@ The company includes and benefits primarily people from similar backgrounds, ide
 ## Evolving (high scores)
 The company actively connects people from different backgrounds, identities, abilities and socio-economic status to foster equity and a better standard of living for the communities they touch.
 
+(0 = completely disagree, 10 = completely agree)
+
 12) *The company proactively seeks to work with and include the perspectives of a diverse group of people in decision-making.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")   //same for rest of questions on page
 
 13) *The people financially benefiting from the company reflect the diversity of the communities in which it operates.*
 
@@ -102,8 +105,9 @@ The company strives to make money for its owners, investors, and shareholders.
 ##  Evolving (example high scores)
 The company strives to create value to help everyone who works with them achieve financial security and improve their quality of life.
 
+(0 = completely disagree, 10 = completely agree)
+
 15) *I am confident in the long-term financial sustainability of the company.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")   //same for rest of questions on page
 
 16) *The value I receive from the company is fair relative to the value I provide.*
 
@@ -121,8 +125,9 @@ The company consumes resources for its gain, without regard for environmental im
 ## Evolving (example low scores)
 The company conserves and restores resources in the creation and delivery of its products and services for the benefit of future generations.
 
+(0 = completely disagree, 10 = completely agree)
+
 19) *I believe the company considers and addresses its impact on the environment.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")   //same for rest of questions on page
 
 20) *I believe that the company has a positive net impact on the environment, helping to heal and restore the planet's life-support systems.*
 
@@ -138,8 +143,9 @@ The company’s sole reason for being is to grow and be financially profitable.
 ## Evolving (example high scores)
 The company’s reason for being is to solve a specific, important social or environmental problem.
 
+(0 = completely disagree, 10 = completely agree)
+
 22) *I am inspired and motivated by the company's purpose.*
-(completely disagree - 0 to completely agree - 10 or "I don't know")   //same for next 3 questions
 
 23) *The company is making my community a better place.*
 
