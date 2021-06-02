@@ -73,7 +73,7 @@ The company helps people live their best lives.
 
 9) *The company cares about and supports my wellbeing.*
 
-10) *The company cares about and suppots the wellbeing of my family.*
+10) *The company cares about and supports the wellbeing of my family.*
 
 11) *The company cares about and actively helps me reach my goals in all areas of life.*
 
